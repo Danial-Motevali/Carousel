@@ -2,7 +2,7 @@
 
 export default function App() {
   return (
-    <div className="">
+    <div className="mt-4">
       Hello
     </div>
   );
