@@ -1,0 +1,7 @@
+https://www.npmjs.com/package/react-multi-carousel
+
+react-multi-carousel
+
+www.junia.ai/react-multi-carousel
+
+https://github.com/YIZHUANG/react-multi-carousel
